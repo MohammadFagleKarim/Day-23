@@ -1,0 +1,6 @@
+G:\Day-23\WebApp\WebApp\WebApp.Model\bin\Debug\WebApp.Model.dll
+G:\Day-23\WebApp\WebApp\WebApp.Model\bin\Debug\WebApp.Model.pdb
+G:\Day-23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.csprojAssemblyReference.cache
+G:\Day-23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.csproj.CoreCompileInputs.cache
+G:\Day-23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.dll
+G:\Day-23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.pdb

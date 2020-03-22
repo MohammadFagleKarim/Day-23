@@ -1,0 +1,17 @@
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\WebApp.Repository.dll.config
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\WebApp.Repository.dll
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\WebApp.Repository.pdb
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\EntityFramework.dll
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\WebApp.DatabaseContext.dll
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\WebApp.Model.dll
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\WebApp.DatabaseContext.pdb
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\WebApp.DatabaseContext.dll.config
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\WebApp.Model.pdb
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\EntityFramework.xml
+G:\Day-23\WebApp\WebApp\WebApp.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\Day-23\WebApp\WebApp\WebApp.Repository\obj\Debug\WebApp.Repository.csprojAssemblyReference.cache
+G:\Day-23\WebApp\WebApp\WebApp.Repository\obj\Debug\WebApp.Repository.csproj.CoreCompileInputs.cache
+G:\Day-23\WebApp\WebApp\WebApp.Repository\obj\Debug\WebApp.Repository.csproj.CopyComplete
+G:\Day-23\WebApp\WebApp\WebApp.Repository\obj\Debug\WebApp.Repository.dll
+G:\Day-23\WebApp\WebApp\WebApp.Repository\obj\Debug\WebApp.Repository.pdb
